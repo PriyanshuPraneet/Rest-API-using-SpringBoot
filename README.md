@@ -67,7 +67,7 @@ docker run --name social-media-db \
 -d mysql:latest
 ```
 
-## Application Configuration
+## ⚙️ Application Configuration
 
 ```bash
 spring.application.name=restapi
@@ -83,4 +83,4 @@ spring.jpa.defer-datasource-initialization=true
 #spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 ```
 
-## THANK YOU
+ THANK YOU 🤝
